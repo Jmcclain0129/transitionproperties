@@ -14,4 +14,4 @@ Transition speed should be set to 1 second and
 transition-timing-function should be ease-in-out.
 
 * Transition should be triggered on hover
-# transitionproperties
+
